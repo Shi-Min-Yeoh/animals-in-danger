@@ -1,7 +1,7 @@
 # animals-in-danger
 
 ## Description
-A website about Malaysia's endangered animals
+A website about Malaysia's endangered animals using parallax scroll effect
 
 ### Dependencies
 * https://chat.openai.com/
